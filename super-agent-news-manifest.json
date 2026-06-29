@@ -1,0 +1,34 @@
+{
+  "citations": [
+    "[darkreading.com](https://www.darkreading.com/cloud-security/amazon-q-vs-extension-flaw-leads-cloud-credential-theft)",
+    "[bleepingcomputer.com](https://www.bleepingcomputer.com/news/security/malicious-jetbrains-marketplace-plugins-steal-ai-api-keys-from-developers/)",
+    "[cryptobriefing.com](https://cryptobriefing.com/agentjacking-attack-ai-coding-agents/)",
+    "[forbes.com](https://www.forbes.com/sites/)",
+    "[bwbusinessworld.com](https://www.bwbusinessworld.com/)",
+    "[engadget.com](https://www.engadget.com/)",
+    "[tech-times.com](https://www.techtimes.com/)"
+  ],
+  "design_plan": "rng_seed=72629; hero_lines=2.4; aida=checked; bento_density=grid-auto-flow:dense verified; labels_swept=true; button_contrast=passed",
+  "generated_at": "2026-06-29T22:37:45.906330+00:00",
+  "headline": "Personal AI Agent Market Brief",
+  "site_brief": {
+    "audience": "buyers and builders tracking personal AI agents",
+    "goal": "Create a frequently refreshed editorial blog homepage with a lead analysis, short posts, source cards, and a clear Super perspective on why computer-use caching makes repeated agent work cheaper and better.",
+    "kind": "blog",
+    "queries": [
+      "personal AI agents",
+      "AI assistants",
+      "computer use AI agent",
+      "browser automation agent",
+      "ChatGPT agent",
+      "Gemini AI assistant",
+      "Grok AI assistant",
+      "Siri AI assistant",
+      "Folk CRM AI",
+      "Orchids AI agent"
+    ],
+    "slug": "personal-ai-agent-news",
+    "title": "Personal AI Agent Market Brief"
+  },
+  "summary": "A June 2026 editorial brief for buyers and builders tracking personal AI agents \u2014 from ChatGPT, Gemini, Grok, and Siri to emerging tools like Folk and Orchids \u2014 with a clear Super perspective on why real computer-use agents and a reusable computer-use cache matter as security risks and demand accelerate."
+}
